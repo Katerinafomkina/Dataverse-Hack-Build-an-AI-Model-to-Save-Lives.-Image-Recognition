@@ -9,7 +9,7 @@ About Hackathon: Image-Classification
 Build an AI model to save lives
 Build a computer vision-based technology to process and detect the potholes present in an image.
 
-Model: ResNet50 -->  fasterrcnn_resnet50_fpn_v2
+# Model: ResNet50 -->  fasterrcnn_resnet50_fpn_v2
 Image size: 224 x 224
-# Epochs: 5
+Epochs: 5
 Batch_size: 8
